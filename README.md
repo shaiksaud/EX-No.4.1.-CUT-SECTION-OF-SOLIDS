@@ -42,6 +42,7 @@ To create the solid model from given drawing and section the solid model
 
 ## OUTPUT:
 # Name : shaik saud s
+
 <img width="1914" height="1010" alt="ex 4 1" src="https://github.com/user-attachments/assets/d40171c4-4461-4deb-bafc-5b15acfa22b7" />
 <img width="1919" height="1008" alt="ex 4 1 Drawing" src="https://github.com/user-attachments/assets/14244f1e-fe32-4342-9eba-4229dbb759a7" />
 
